@@ -1,7 +1,6 @@
 # 欢迎！
 
-![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=avis-illusio&theme=dark)
-![Streak Card](https://coolreadme.xyz/api/streak-card?user=avis-illusio&theme=spotify)
+![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=avis-illusio&theme=light)
 
 ## 关于我
 
@@ -12,7 +11,7 @@
 
 ## 项目
 
-![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=avis-illusio&theme=dark&accent=9999FF)
+![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=avis-illusio&theme=light&accent=9999FF)
 
 ## 联系
 
